@@ -77,7 +77,7 @@ public class TestJunit1 {
    public void testPrintMessage() {	
       System.out.println("Inside testPrintMessage()");
  System.out.println("Hello World"); 
- System.out.println("Hello Hyd");
+ System.out.println("Hello Mumbai");
  System.out.println("Hello Pune");   
       assertEquals(message, messageUtil.printMessage());     
    }
