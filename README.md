@@ -27,6 +27,7 @@ Stream output changes
      
     @After
     public void closeOutputStream() {
+    system.out.println("hello")
           /**
            * Close output stream here
            */
