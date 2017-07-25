@@ -4,7 +4,7 @@ import junit.framework.*;
 public class MyTestClass {
      
     OutputStream stream;
-
+sample text
 Stream output changes
      
     @Before
