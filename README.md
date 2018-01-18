@@ -27,7 +27,7 @@ Stream output changes
      
     @After
     public void closeOutputStream() {
-        system.out.println("hello Mumbai")
+        system.out.println("hello India")
           /**
            * Close output stream here
            */
